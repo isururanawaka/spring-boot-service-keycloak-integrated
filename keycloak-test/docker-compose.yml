@@ -1,0 +1,9 @@
+version: '3'
+services:
+  tenant:
+    build: .
+    image: isurur:tenant_service_latest
+    ports:
+      - "8080:8080"
+      - "8180:8180"
+

@@ -1,0 +1,8 @@
+org/apache/custos/tenant/ApplicationInitializer.class
+org/apache/custos/tenant/config/SecurityProperties.class
+org/apache/custos/tenant/model/Tenant.class
+org/apache/custos/tenant/store/TenantStore.class
+org/apache/custos/tenant/config/SecurityProperties$Cors.class
+org/apache/custos/tenant/config/JwtAccessTokenCustomizer.class
+org/apache/custos/tenant/config/SecurityConfigurer.class
+org/apache/custos/tenant/controller/TenantController.class
